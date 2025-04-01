@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shewithotel-adwa/static/css/main.26374631.css",
+    "main.js": "/shewithotel-adwa/static/js/main.ed6d3603.js",
+    "index.html": "/shewithotel-adwa/index.html",
+    "main.26374631.css.map": "/shewithotel-adwa/static/css/main.26374631.css.map",
+    "main.ed6d3603.js.map": "/shewithotel-adwa/static/js/main.ed6d3603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26374631.css",
+    "static/js/main.ed6d3603.js"
+  ]
+}
